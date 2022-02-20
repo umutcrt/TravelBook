@@ -17,6 +17,7 @@
 		871C873027C01D2C00F10C67 /* TravelBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871C872F27C01D2C00F10C67 /* TravelBookTests.swift */; };
 		871C873A27C01D2C00F10C67 /* TravelBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871C873927C01D2C00F10C67 /* TravelBookUITests.swift */; };
 		871C873C27C01D2C00F10C67 /* TravelBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871C873B27C01D2C00F10C67 /* TravelBookUITestsLaunchTests.swift */; };
+		871C874927C0C96C00F10C67 /* listViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871C874827C0C96B00F10C67 /* listViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		871C873527C01D2C00F10C67 /* TravelBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TravelBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		871C873927C01D2C00F10C67 /* TravelBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBookUITests.swift; sourceTree = "<group>"; };
 		871C873B27C01D2C00F10C67 /* TravelBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		871C874827C0C96B00F10C67 /* listViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				871C871527C01D2A00F10C67 /* AppDelegate.swift */,
 				871C871727C01D2A00F10C67 /* SceneDelegate.swift */,
 				871C871927C01D2A00F10C67 /* ViewController.swift */,
+				871C874827C0C96B00F10C67 /* listViewController.swift */,
 				871C871B27C01D2A00F10C67 /* Main.storyboard */,
 				871C872127C01D2C00F10C67 /* Assets.xcassets */,
 				871C872327C01D2C00F10C67 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				871C872027C01D2A00F10C67 /* TravelBook.xcdatamodeld in Sources */,
+				871C874927C0C96C00F10C67 /* listViewController.swift in Sources */,
 				871C871A27C01D2A00F10C67 /* ViewController.swift in Sources */,
 				871C871627C01D2A00F10C67 /* AppDelegate.swift in Sources */,
 				871C871827C01D2A00F10C67 /* SceneDelegate.swift in Sources */,
